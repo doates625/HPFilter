@@ -13,4 +13,4 @@ class HPFilter : public LTIFilter
 {
 public:
 	HPFilter(float fc, float fs);
-}
+};
